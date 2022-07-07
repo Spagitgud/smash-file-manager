@@ -1,0 +1,9 @@
+display_name = "Golf Rush Bowser"
+authors = "Cattail (@CattailXC)"
+version = "1.0.0"
+description = """
+Bowser arrives dressed in his attire from Mario Golf: Super Rush!
+Comes with UI, PRM, and mod manager support.
+
+"""
+category = "Fighter"

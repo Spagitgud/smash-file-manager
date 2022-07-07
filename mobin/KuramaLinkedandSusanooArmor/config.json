@@ -1,0 +1,18 @@
+{
+	"unshare-blacklist": [
+	  "fighter/koopa/model/body/c05/orangehaze_col.nutexb",
+	  "fighter/koopa/model/body/c06/purplehaze_col.nutexb",
+	  "fighter/koopa/model/body/c06/orangehaze_col.nutexb"
+		
+		
+    ],
+  "new-dir-files": {
+    "fighter/koopa/c05": [
+	  "fighter/koopa/model/body/c05/orangehaze_col.nutexb"
+    ],
+	"fighter/koopa/c06": [
+	  "fighter/koopa/model/body/c06/purplehaze_col.nutexb",
+	  "fighter/koopa/model/body/c06/orangehaze_col.nutexb"
+    ]
+  }
+}

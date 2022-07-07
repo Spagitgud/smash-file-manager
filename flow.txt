@@ -1,0 +1,12 @@
+
+
+**ask which char
+
+find that skin->
+group the skins into a folder?
+>display skins inside that  folder
+
+**find which skins conflict?
+
+**move, overwrite the correct skin files
+

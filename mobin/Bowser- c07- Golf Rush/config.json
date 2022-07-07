@@ -1,0 +1,12 @@
+{
+    "new-dir-files": {
+        "fighter/koopa/c07": [
+            "fighter/koopa/model/body/c07/metal_koopa_003_col.nutexb",
+            "fighter/koopa/model/body/c07/metal_koopa_003_nor.nutexb",
+            "fighter/koopa/model/body/c07/metal_koopa_003_prm.nutexb",
+			"fighter/koopa/model/body/c07/metal_koopa_002_col.nutexb",
+            "fighter/koopa/model/body/c07/metal_koopa_002_nor.nutexb",
+            "fighter/koopa/model/body/c07/metal_koopa_002_prm.nutexb"
+        ]
+    }
+}
