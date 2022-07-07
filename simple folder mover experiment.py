@@ -27,3 +27,5 @@ for files in src_files:
     shutil.move (folder,temp_dest)
 
 
+moved_files = os.listdir(target)
+print(moved_files)
