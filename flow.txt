@@ -2,9 +2,11 @@
 
 **ask which char
 
-find that skin->
-group the skins into a folder?
->display skins inside that  folder
+find that skin-> DONE
+group the skins into a folder? DONE
+>display skins inside that  folder DONE
+
+>>ASSIGN SKIN TO EACH SLOT
 
 **find which skins conflict?
 
